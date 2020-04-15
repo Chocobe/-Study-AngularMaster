@@ -42,6 +42,26 @@
 ---
 
 
+## 🐫 의존성 관리
+
+* Angular 프로잭트는 **package.json** 과 **package-lock.json** 파일로 의존성을 관리한다.
+
+* Angular 프로잭트를 생성 시, 자동으로 ``.gitignore`` 파일을 만들고, ``node-modules``폴더 자체를 배제한다.
+
+* ``node_modules``를 Git에 등록하지 않아도, **package.json** 과 **package-lock.json** 파일이 있다면, 해당 의존성을 설치할 수 있다.
+
+    > 의존성 설치 : $ npm install
+
+* ``package.json`` : 프로잭트에 필요한 의존성과 버전 정보를 가지고 있다. (버전은 범위로 설정되어 있다.)
+
+* ``package-lock.json`` : 의존성 모듈들의 특정버전(정확히 일치하는) 정보를 가지고 있다.
+
+* **package.json** 과 **package-lock.json** 파일은 절대 지우지 말자.
+
+
+---
+
+
 ## 🐫 목차
 
-* [1장. 첫 앵귤러 웹 애플리케이션 만들기](https://github.com/Chocobe/-Study-AngularMaster/blob/master/angular-hello-world/README.md)
+* [1장. 배포하기](https://github.com/Chocobe/-Study-AngularMaster/blob/master/angular-hello-world/README.md)
