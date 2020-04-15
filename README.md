@@ -64,4 +64,4 @@
 
 ## 🐫 목차
 
-* [1장. 배포하기](https://github.com/Chocobe/-Study-AngularMaster/blob/master/angular-hello-world/README.md)
+* [1장. 배포하기](https://github.com/Chocobe/-Study-AngularMaster/blob/master/chap_01/angular-reddit/README.md)
