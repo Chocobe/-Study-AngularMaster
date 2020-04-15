@@ -62,6 +62,55 @@
 ---
 
 
+## 🐫 vsCode 단축키
+
+* 제어판 : ``Ctrl + ,``
+
+* 단축키 설정창 : ``Ctrl + k`` + ``Ctrl + s``
+
+* 모든 창 닫기 : ``Ctrl + k`` + ``Ctrl + w``
+
+* 터미널 이동 단축키
+
+    * 기본설정이 없는 단축키 이므로, 직접 설정해야 한다.
+
+    * 검색 : terminal focus
+
+    * ``터미널: 이전 터미널에 포커스`` 더블클릭
+
+    * 단축키 설정 (내 설정: ``Ctrl + Shift + Alt + z``)
+
+    * ``터미널: 다음 터미널에 포커스`` 더블클릭
+
+    * 단축키 설정 (내 설정: ``Ctrl + Shift + Alt + x``)
+
+* 터미널 이름변경 단축키
+
+    * 검색 : terminal rename
+
+    * ``터미널: 이름 바꾸기`` 더블클릭
+
+    * 단축키 설정 (내 설정: ``Ctrl + Shift + Alt + a``)
+
+* 현재 터미널 종료
+
+    * 검색 : terminal kill
+
+    * ``터미널: 활성 터미널 인스턴스 종료`` 더블클릭
+
+    * 단축키 설정 (내 설정: ``Ctrl + Shift + Alt + q``)
+
+* 새 터미널 만들기
+
+    * 검색 : terminal new
+
+    * ``터미널: 새 통합 터미널 만들기`` 더블클릭
+
+    * 단축키 설정 (기본값: ``Ctrl + Shift + 백틱(`)``)
+
+---
+
+
 ## 🐫 목차
 
 * [1장. 배포하기](https://github.com/Chocobe/-Study-AngularMaster/blob/master/chap_01/angular-reddit/README.md)
